@@ -2,7 +2,7 @@
 
 **PyPar** is a python library that provides efficient and scalable parallelism using the message passing interface (MPI) to handle **big data** and **highly computational problems**.
 
-[![Build Status](https://travis-ci.org/daleroberts/pypar.svg?branch=master)](https://travis-ci.org/daleroberts/pypar)
+[![Build Status](https://travis-ci.org/congma/pypar.svg?branch=master)](https://travis-ci.org/congma/pypar)
 
 **PyPar** is used by a number of large projects, such as:
 
